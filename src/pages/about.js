@@ -1,11 +1,11 @@
 import React from 'react'
 
 import Layout from "../components/Layout"
-import Seo from "../components/seo"
+import SEO from "../components/seo"
 
 const AboutPage = () => (
   <Layout>
-    <Seo title="About2" />
+    <SEO title="About2" />
   <h1>About Page</h1>
   </Layout>
 )
